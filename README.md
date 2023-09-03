@@ -37,6 +37,7 @@ If you encounter any issues or have questions, you can refer to the Solidity doc
 ## Authors
 
 **SHAWAIZ ISLAM**
+
 Contact: [shawaizjutt978@gmail.com]
 
 
